@@ -1,0 +1,11 @@
+{
+    "slack": {
+      "webhook_url": "https:から始まるURLをいれてください",
+      "score_threshold": 80
+    },
+    "watch_dir": "C:/Users/username/ir_documents",
+    "backup_dir": "./backup",
+    "logs_dir": "./logs",
+    "auto_dictionary_path": "./auto_keywords/auto_keywords.json",
+    "custom_dictionary_path": "./custom_keywords/keywords.xlsx"
+  }
